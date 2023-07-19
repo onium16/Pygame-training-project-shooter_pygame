@@ -1,4 +1,5 @@
 Shooter Game "Space raid"  1.0.0
+
 Space shooter written in python using 'pygame' library.
 
     Space shooter written in python using 'pygame' library.
