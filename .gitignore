@@ -1,6 +1,7 @@
 # folders and files this project
 .pygamevenv/
 .graphicfiles/
+.gitignore
 
 
 # Byte-compiled / optimized / DLL files
