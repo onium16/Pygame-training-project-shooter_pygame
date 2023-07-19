@@ -10,7 +10,7 @@ screen_width, screen_height = 800, 600
 screen_fill_color = (32, 52, 71)
 screen = pygame.display.set_mode((screen_width,  screen_height))
 
-pygame.display.set_caption('Awesome Shutter Game')
+pygame.display.set_caption('Space raid 1.0.0')
 
 
 screen_image = pygame.image.load('images/screen.png')
